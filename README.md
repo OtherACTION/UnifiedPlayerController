@@ -52,3 +52,7 @@ Prefab
 * FP Camera.prefab
 * Main Camera.prefab
 * TP Camera.prefab
+
+# License
+
+This has been released under the MIT License.
