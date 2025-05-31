@@ -55,4 +55,4 @@ Prefab
 
 # License
 
-This has been released under the MIT License.
+This has been released under the [MIT License](https://github.com/OtherACTION/UnifiedPlayerController/blob/main/LICENSE).
