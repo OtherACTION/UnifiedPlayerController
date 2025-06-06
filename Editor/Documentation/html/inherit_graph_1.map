@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,147,117,173"/>
+<area shape="rect" id="Node000001" href="$a00040.html" title="Allows the player to push rigid bodies when colliding with them using a CharacterController...." alt="" coords="170,5,330,48"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="81,133,117,95,163,58,184,46,187,51,166,62,121,99,85,137"/>
+<area shape="rect" id="Node000002" href="$a00032.html" title="Allows the camera to dynamically follow the player&#39;s head bone with an adjustable offset...." alt="" coords="170,72,330,115"/>
+<area shape="poly" id="edge3_Node000000_Node000002" title=" " alt="" coords="115,138,186,113,188,118,116,143"/>
+<area shape="rect" id="Node000003" href="$a00036.html" title="Allows zooming in and out of a third&#45;person camera using the mouse scroll wheel. Uses the Cinemachine..." alt="" coords="165,139,335,181"/>
+<area shape="poly" id="edge4_Node000000_Node000003" title=" " alt="" coords="132,157,164,157,164,163,132,163"/>
+<area shape="rect" id="Node000004" href="$a00044.html" title=" " alt="" coords="170,205,330,248"/>
+<area shape="poly" id="edge5_Node000000_Node000004" title=" " alt="" coords="116,177,188,202,186,207,115,182"/>
+<area shape="rect" id="Node000005" href="$a00048.html" title="Handles player input for movement, looking, jumping, sprinting, and cursor state. Supports both Unity..." alt="" coords="170,272,330,315"/>
+<area shape="poly" id="edge6_Node000000_Node000005" title=" " alt="" coords="85,183,121,221,166,258,187,269,184,274,163,262,117,225,81,187"/>
+</map>
