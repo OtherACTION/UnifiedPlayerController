@@ -1,0 +1,5 @@
+<map id="UnifiedPlayerController.ThirdPersonCameraZoom" name="UnifiedPlayerController.ThirdPersonCameraZoom">
+<area shape="rect" id="Node000001" title="Allows zooming in and out of a third&#45;person camera using the mouse scroll wheel. Uses the Cinemachine..." alt="" coords="5,80,176,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,5,146,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,48,93,80,88,80,88,48"/>
+</map>
